@@ -171,7 +171,7 @@ body {
 }
 .btn-summary:hover {
   cursor: pointer;
-  background-color: hsl(252, 100%, 67%);
+  background: var(--lg-card-bg);
 }
 .attribution {
   font-size: 1.1rem;
